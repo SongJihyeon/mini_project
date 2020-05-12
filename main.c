@@ -40,7 +40,7 @@ void input_handler(char input[], Record records[]){
   else if(!strcmp(input, "2"))
     add_a_record(records);
 	else if(!strcmp(input, "3"))
-		find_members(records);
+		search_student_data(records);
   else if(!strcmp(input, "4"))
 		print_all_records(records);	
 	else if(!strcmp(input, "5"))

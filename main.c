@@ -40,7 +40,7 @@ void input_handler(char input[], Record records[]){
   else if(!strcmp(input, "2"))
     add_a_record(records);
 	else if(!strcmp(input, "3"))
-		search_student_data(records);
+		find_members(records);
   else if(!strcmp(input, "4"))
 		print_all_records(records);	
 	else if(!strcmp(input, "5"))
@@ -57,6 +57,8 @@ void input_handler(char input[], Record records[]){
 		fm_error(records);
   else if(!strcmp(input, "11"))
 		save_report(records);
+  else if(!strcmp(input,"12"))
+                 choose_condition(records);
 	else if(!strcmp(input, "99"))
 		printf("Terminating... bye!\n"); // Quit - no operation (an empty statement with a semi-colon)
 	else
@@ -87,5 +89,6 @@ void display_menu(){
   printf(" 9. Calssificate student with entry year\n");
   printf(" 10. Find room number error\n");
   printf(" 11. Save dormitary report\n");
+  printf(" 12. Advanced search\n");
 	printf(" 99. Quit\n");
 }

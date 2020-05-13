@@ -1,0 +1,1322 @@
+[Dormitory Student Report]
+Students number in dormitory : 165 (male: 85, female: 80)
+======================
+Name: Alex
+Sex: M
+Entry year: 2017
+Room number: 202
+Minus point: 1
+======================
+
+======================
+Name: Alice
+Sex: F
+Entry year: 2018
+Room number: 101
+Minus point: 0
+======================
+
+======================
+Name: Archie
+Sex: M
+Entry year: 2018
+Room number: 203
+Minus point: 2
+======================
+
+======================
+Name: Arthur
+Sex: M
+Entry year: 2019
+Room number: 204
+Minus point: 0
+======================
+
+======================
+Name: Austin
+Sex: M
+Entry year: 2016
+Room number: 205
+Minus point: 0
+======================
+
+======================
+Name: Bella
+Sex: F
+Entry year: 2017
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Benjo
+Sex: M
+Entry year: 2017
+Room number: 206
+Minus point: 3
+======================
+
+======================
+Name: Brooke
+Sex: F
+Entry year: 2018
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Charlie
+Sex: M
+Entry year: 2018
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Daisy
+Sex: F
+Entry year: 2016
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Daniel
+Sex: M
+Entry year: 2019
+Room number: 208
+Minus point: 2
+======================
+
+======================
+Name: Darcy
+Sex: F
+Entry year: 2017
+Room number: 107
+Minus point: 0
+======================
+
+======================
+Name: David
+Sex: M
+Entry year: 2016
+Room number: 209
+Minus point: 0
+======================
+
+======================
+Name: Edward
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 3
+======================
+
+======================
+Name: Elice
+Sex: F
+Entry year: 2018
+Room number: 108
+Minus point: 0
+======================
+
+======================
+Name: Ethan
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 0
+======================
+
+======================
+Name: Felix
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 5
+======================
+
+======================
+Name: George
+Sex: M
+Entry year: 2017
+Room number: 213
+Minus point: 0
+======================
+
+======================
+Name: Georgia
+Sex: F
+Entry year: 2018
+Room number: 109
+Minus point: 6
+======================
+
+======================
+Name: Grace
+Sex: F
+Entry year: 2016
+Room number: 110
+Minus point: 0
+======================
+
+======================
+Name: Hannah
+Sex: F
+Entry year: 2017
+Room number: 111
+Minus point: 3
+======================
+
+======================
+Name: Isabel
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 0
+======================
+
+======================
+Name: James
+Sex: M
+Entry year: 2016
+Room number: 203
+Minus point: 0
+======================
+
+======================
+Name: Jessica
+Sex: F
+Entry year: 2019
+Room number: 113
+Minus point: 0
+======================
+
+======================
+Name: Julia
+Sex: F
+Entry year: 2016
+Room number: 114
+Minus point: 7
+======================
+
+======================
+Name: Martha
+Sex: F
+Entry year: 2019
+Room number: 102
+Minus point: 1
+======================
+
+======================
+Name: Matthew
+Sex: M
+Entry year: 2017
+Room number: 204
+Minus point: 2
+======================
+
+======================
+Name: Megan
+Sex: F
+Entry year: 2016
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Nathan
+Sex: M
+Entry year: 2018
+Room number: 205
+Minus point: 2
+======================
+
+======================
+Name: Oliver
+Sex: M
+Entry year: 2019
+Room number: 206
+Minus point: 5
+======================
+
+======================
+Name: Olivia
+Sex: F
+Entry year: 2017
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Owen
+Sex: M
+Entry year: 2016
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Robert
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 1
+======================
+
+======================
+Name: Rose
+Sex: F
+Entry year: 2018
+Room number: 105
+Minus point: 2
+======================
+
+======================
+Name: Samuel
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 8
+======================
+
+======================
+Name: Sarah
+Sex: F
+Entry year: 2019
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Scarla
+Sex: F
+Entry year: 2016
+Room number: 108
+Minus point: 2
+======================
+
+======================
+Name: Sophia
+Sex: F
+Entry year: 2017
+Room number: 109
+Minus point: 0
+======================
+
+======================
+Name: Thomas
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 0
+======================
+
+======================
+Name: Vicky
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 9
+======================
+
+======================
+Name: 
+Sex: 0
+Entry year: 0
+Room number: 0
+Minus point: 1
+======================
+
+======================
+Name: Alex
+Sex: M
+Entry year: 2017
+Room number: 202
+Minus point: 1
+======================
+
+======================
+Name: Alice
+Sex: F
+Entry year: 2018
+Room number: 101
+Minus point: 0
+======================
+
+======================
+Name: Archie
+Sex: M
+Entry year: 2018
+Room number: 203
+Minus point: 2
+======================
+
+======================
+Name: Arthur
+Sex: M
+Entry year: 2019
+Room number: 204
+Minus point: 0
+======================
+
+======================
+Name: Austin
+Sex: M
+Entry year: 2016
+Room number: 205
+Minus point: 0
+======================
+
+======================
+Name: Bella
+Sex: F
+Entry year: 2017
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Benjo
+Sex: M
+Entry year: 2017
+Room number: 206
+Minus point: 3
+======================
+
+======================
+Name: Brooke
+Sex: F
+Entry year: 2018
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Charlie
+Sex: M
+Entry year: 2018
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Daisy
+Sex: F
+Entry year: 2016
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Daniel
+Sex: M
+Entry year: 2019
+Room number: 208
+Minus point: 2
+======================
+
+======================
+Name: Darcy
+Sex: F
+Entry year: 2017
+Room number: 107
+Minus point: 0
+======================
+
+======================
+Name: David
+Sex: M
+Entry year: 2016
+Room number: 209
+Minus point: 0
+======================
+
+======================
+Name: Edward
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 3
+======================
+
+======================
+Name: Elice
+Sex: F
+Entry year: 2018
+Room number: 108
+Minus point: 0
+======================
+
+======================
+Name: Ethan
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 0
+======================
+
+======================
+Name: Felix
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 5
+======================
+
+======================
+Name: George
+Sex: M
+Entry year: 2017
+Room number: 213
+Minus point: 0
+======================
+
+======================
+Name: Georgia
+Sex: F
+Entry year: 2018
+Room number: 109
+Minus point: 6
+======================
+
+======================
+Name: Grace
+Sex: F
+Entry year: 2016
+Room number: 110
+Minus point: 0
+======================
+
+======================
+Name: Hannah
+Sex: F
+Entry year: 2017
+Room number: 111
+Minus point: 3
+======================
+
+======================
+Name: Isabel
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 0
+======================
+
+======================
+Name: James
+Sex: M
+Entry year: 2016
+Room number: 203
+Minus point: 0
+======================
+
+======================
+Name: Jessica
+Sex: F
+Entry year: 2019
+Room number: 113
+Minus point: 0
+======================
+
+======================
+Name: Julia
+Sex: F
+Entry year: 2016
+Room number: 114
+Minus point: 7
+======================
+
+======================
+Name: Martha
+Sex: F
+Entry year: 2019
+Room number: 102
+Minus point: 1
+======================
+
+======================
+Name: Matthew
+Sex: M
+Entry year: 2017
+Room number: 204
+Minus point: 2
+======================
+
+======================
+Name: Megan
+Sex: F
+Entry year: 2016
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Nathan
+Sex: M
+Entry year: 2018
+Room number: 205
+Minus point: 2
+======================
+
+======================
+Name: Oliver
+Sex: M
+Entry year: 2019
+Room number: 206
+Minus point: 5
+======================
+
+======================
+Name: Olivia
+Sex: F
+Entry year: 2017
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Owen
+Sex: M
+Entry year: 2016
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Robert
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 1
+======================
+
+======================
+Name: Rose
+Sex: F
+Entry year: 2018
+Room number: 105
+Minus point: 2
+======================
+
+======================
+Name: Samuel
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 8
+======================
+
+======================
+Name: Sarah
+Sex: F
+Entry year: 2019
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Scarla
+Sex: F
+Entry year: 2016
+Room number: 108
+Minus point: 2
+======================
+
+======================
+Name: Sophia
+Sex: F
+Entry year: 2017
+Room number: 109
+Minus point: 0
+======================
+
+======================
+Name: Thomas
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 0
+======================
+
+======================
+Name: Vicky
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 9
+======================
+
+======================
+Name: 
+Sex: 0
+Entry year: 0
+Room number: 0
+Minus point: 1
+======================
+
+======================
+Name: Alex
+Sex: M
+Entry year: 2017
+Room number: 202
+Minus point: 1
+======================
+
+======================
+Name: Alice
+Sex: F
+Entry year: 2018
+Room number: 101
+Minus point: 0
+======================
+
+======================
+Name: Archie
+Sex: M
+Entry year: 2018
+Room number: 203
+Minus point: 2
+======================
+
+======================
+Name: Arthur
+Sex: M
+Entry year: 2019
+Room number: 204
+Minus point: 0
+======================
+
+======================
+Name: Austin
+Sex: M
+Entry year: 2016
+Room number: 205
+Minus point: 0
+======================
+
+======================
+Name: Bella
+Sex: F
+Entry year: 2017
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Benjo
+Sex: M
+Entry year: 2017
+Room number: 206
+Minus point: 3
+======================
+
+======================
+Name: Brooke
+Sex: F
+Entry year: 2018
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Charlie
+Sex: M
+Entry year: 2018
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Daisy
+Sex: F
+Entry year: 2016
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Daniel
+Sex: M
+Entry year: 2019
+Room number: 208
+Minus point: 2
+======================
+
+======================
+Name: Darcy
+Sex: F
+Entry year: 2017
+Room number: 107
+Minus point: 0
+======================
+
+======================
+Name: David
+Sex: M
+Entry year: 2016
+Room number: 209
+Minus point: 0
+======================
+
+======================
+Name: Edward
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 3
+======================
+
+======================
+Name: Elice
+Sex: F
+Entry year: 2018
+Room number: 108
+Minus point: 0
+======================
+
+======================
+Name: Ethan
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 0
+======================
+
+======================
+Name: Felix
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 5
+======================
+
+======================
+Name: George
+Sex: M
+Entry year: 2017
+Room number: 213
+Minus point: 0
+======================
+
+======================
+Name: Georgia
+Sex: F
+Entry year: 2018
+Room number: 109
+Minus point: 6
+======================
+
+======================
+Name: Grace
+Sex: F
+Entry year: 2016
+Room number: 110
+Minus point: 0
+======================
+
+======================
+Name: Hannah
+Sex: F
+Entry year: 2017
+Room number: 111
+Minus point: 3
+======================
+
+======================
+Name: Isabel
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 0
+======================
+
+======================
+Name: James
+Sex: M
+Entry year: 2016
+Room number: 203
+Minus point: 0
+======================
+
+======================
+Name: Jessica
+Sex: F
+Entry year: 2019
+Room number: 113
+Minus point: 0
+======================
+
+======================
+Name: Julia
+Sex: F
+Entry year: 2016
+Room number: 114
+Minus point: 7
+======================
+
+======================
+Name: Martha
+Sex: F
+Entry year: 2019
+Room number: 102
+Minus point: 1
+======================
+
+======================
+Name: Matthew
+Sex: M
+Entry year: 2017
+Room number: 204
+Minus point: 2
+======================
+
+======================
+Name: Megan
+Sex: F
+Entry year: 2016
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Nathan
+Sex: M
+Entry year: 2018
+Room number: 205
+Minus point: 2
+======================
+
+======================
+Name: Oliver
+Sex: M
+Entry year: 2019
+Room number: 206
+Minus point: 5
+======================
+
+======================
+Name: Olivia
+Sex: F
+Entry year: 2017
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Owen
+Sex: M
+Entry year: 2016
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Robert
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 1
+======================
+
+======================
+Name: Rose
+Sex: F
+Entry year: 2018
+Room number: 105
+Minus point: 2
+======================
+
+======================
+Name: Samuel
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 8
+======================
+
+======================
+Name: Sarah
+Sex: F
+Entry year: 2019
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Scarla
+Sex: F
+Entry year: 2016
+Room number: 108
+Minus point: 2
+======================
+
+======================
+Name: Sophia
+Sex: F
+Entry year: 2017
+Room number: 109
+Minus point: 0
+======================
+
+======================
+Name: Thomas
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 0
+======================
+
+======================
+Name: Vicky
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 9
+======================
+
+======================
+Name: 
+Sex: 0
+Entry year: 0
+Room number: 0
+Minus point: 1
+======================
+
+======================
+Name: Alex
+Sex: M
+Entry year: 2017
+Room number: 202
+Minus point: 1
+======================
+
+======================
+Name: Alice
+Sex: F
+Entry year: 2018
+Room number: 101
+Minus point: 0
+======================
+
+======================
+Name: Archie
+Sex: M
+Entry year: 2018
+Room number: 203
+Minus point: 2
+======================
+
+======================
+Name: Arthur
+Sex: M
+Entry year: 2019
+Room number: 204
+Minus point: 0
+======================
+
+======================
+Name: Austin
+Sex: M
+Entry year: 2016
+Room number: 205
+Minus point: 0
+======================
+
+======================
+Name: Bella
+Sex: F
+Entry year: 2017
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Benjo
+Sex: M
+Entry year: 2017
+Room number: 206
+Minus point: 3
+======================
+
+======================
+Name: Brooke
+Sex: F
+Entry year: 2018
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Charlie
+Sex: M
+Entry year: 2018
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Daisy
+Sex: F
+Entry year: 2016
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Daniel
+Sex: M
+Entry year: 2019
+Room number: 208
+Minus point: 2
+======================
+
+======================
+Name: Darcy
+Sex: F
+Entry year: 2017
+Room number: 107
+Minus point: 0
+======================
+
+======================
+Name: David
+Sex: M
+Entry year: 2016
+Room number: 209
+Minus point: 0
+======================
+
+======================
+Name: Edward
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 3
+======================
+
+======================
+Name: Elice
+Sex: F
+Entry year: 2018
+Room number: 108
+Minus point: 0
+======================
+
+======================
+Name: Ethan
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 0
+======================
+
+======================
+Name: Felix
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 5
+======================
+
+======================
+Name: George
+Sex: M
+Entry year: 2017
+Room number: 213
+Minus point: 0
+======================
+
+======================
+Name: Georgia
+Sex: F
+Entry year: 2018
+Room number: 109
+Minus point: 6
+======================
+
+======================
+Name: Grace
+Sex: F
+Entry year: 2016
+Room number: 110
+Minus point: 0
+======================
+
+======================
+Name: Hannah
+Sex: F
+Entry year: 2017
+Room number: 111
+Minus point: 3
+======================
+
+======================
+Name: Isabel
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 0
+======================
+
+======================
+Name: James
+Sex: M
+Entry year: 2016
+Room number: 203
+Minus point: 0
+======================
+
+======================
+Name: Jessica
+Sex: F
+Entry year: 2019
+Room number: 113
+Minus point: 0
+======================
+
+======================
+Name: Julia
+Sex: F
+Entry year: 2016
+Room number: 114
+Minus point: 7
+======================
+
+======================
+Name: Martha
+Sex: F
+Entry year: 2019
+Room number: 102
+Minus point: 1
+======================
+
+======================
+Name: Matthew
+Sex: M
+Entry year: 2017
+Room number: 204
+Minus point: 2
+======================
+
+======================
+Name: Megan
+Sex: F
+Entry year: 2016
+Room number: 103
+Minus point: 0
+======================
+
+======================
+Name: Nathan
+Sex: M
+Entry year: 2018
+Room number: 205
+Minus point: 2
+======================
+
+======================
+Name: Oliver
+Sex: M
+Entry year: 2019
+Room number: 206
+Minus point: 5
+======================
+
+======================
+Name: Olivia
+Sex: F
+Entry year: 2017
+Room number: 104
+Minus point: 0
+======================
+
+======================
+Name: Owen
+Sex: M
+Entry year: 2016
+Room number: 207
+Minus point: 0
+======================
+
+======================
+Name: Robert
+Sex: M
+Entry year: 2017
+Room number: 210
+Minus point: 1
+======================
+
+======================
+Name: Rose
+Sex: F
+Entry year: 2018
+Room number: 105
+Minus point: 2
+======================
+
+======================
+Name: Samuel
+Sex: M
+Entry year: 2018
+Room number: 211
+Minus point: 8
+======================
+
+======================
+Name: Sarah
+Sex: F
+Entry year: 2019
+Room number: 106
+Minus point: 0
+======================
+
+======================
+Name: Scarla
+Sex: F
+Entry year: 2016
+Room number: 108
+Minus point: 2
+======================
+
+======================
+Name: Sophia
+Sex: F
+Entry year: 2017
+Room number: 109
+Minus point: 0
+======================
+
+======================
+Name: Thomas
+Sex: M
+Entry year: 2019
+Room number: 212
+Minus point: 0
+======================
+
+======================
+Name: Vicky
+Sex: F
+Entry year: 2018
+Room number: 112
+Minus point: 9
+======================
+
+======================
+Name: 
+Sex: 0
+Entry year: 0
+Room number: 0
+Minus point: 0
+======================
+
+======================
+Name: dayoung
+Sex: f
+Entry year: 3
+Room number: 516
+Minus point: 0
+======================
+

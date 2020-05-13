@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "extras.h"
 #include <string.h>
-
+#include <stdlib.h>
 // Function: defragment()
 // Input: record - array of Records; this may contain empty elements in the middle
 // Output: 1 if successful, otherwise 0
@@ -124,6 +124,8 @@ void student_classification(Record records[]){
   }
 }
 
+
+
 void fm_error(Record records[]){
   //guess female students' room number are always 101~199 and male students' room number are always 201~299
   //find wrong room number's student and print their name and room number
@@ -140,4 +142,231 @@ void fm_error(Record records[]){
       }
     }
   }
+}
+
+void choose_condition(Record records[]){
+ int choose1, choose2;
+ printf("choose 2 conditions to search what you want\n(1:name, 2:entry year,3:room 4:gender(f,m)):");
+ scanf("%d %d",&choose1,&choose2);
+ search_student_data(records,choose1,choose2);
+ }
+
+void search_student_data(Record records[],int choose1, int choose2){
+ char dummy;
+ char name[20];
+ char gender[2];
+ char entry_year[10];
+ char room_no[10];
+ char *year = (char*)malloc(sizeof(char)*1000);
+ char *room = (char*)malloc(sizeof(char)*1000);
+ char *gen = (char*)malloc(sizeof(char)*1000);
+ int n=1;
+ int i;
+ int count = load_txt2(records);
+
+for(i=0;i<count;i++){
+ sprintf(year,"%d",records[i].entry);
+ sprintf(room,"%d",records[i].room);
+ sprintf(gen,"%c",records[i].fm);
+}
+
+
+ if(choose1==1){
+     printf("Enter name(more than 2 words)>");
+     scanf("%s",name);
+   if(choose2==2){
+     printf("Enter entry year to find users(e.g 2019)>");
+     scanf("%s",entry_year);
+     getchar();
+     for(i = 0; i < count; i++){
+	 sprintf(year,"%d",records[i].entry);
+      if(strncmp(records[i].name,name,strlen(name))==0&&strncmp(year,entry_year,strlen(entry_year))==0 ){
+	printf("%2d",n++);
+       printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+     }
+    }
+   }
+   else if (choose2==3){
+     printf("Enter room number to find users>");
+     scanf("%s",room_no);
+     getchar();
+    for(i = 0; i < count; i++){
+      sprintf(room,"%d",records[i].room);
+	if(strncmp(records[i].name,name,strlen(name))==0 && strncmp(room,room_no,strlen(room_no))==0){
+       printf("%2d",n++);
+       printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+      }
+     }
+   }
+   else if(choose2==4){
+     printf("Enter gender to find users>");
+     scanf("%s",gender);
+     getchar();
+     for(i = 0; i < count; i++){
+       sprintf(gen,"%c",records[i].fm);
+	if(strncmp(records[i].name,name,strlen(name))==0 && strncmp(gen,gender,1)==0){
+        printf("%2d",n++);
+        printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+       }
+      }
+   }
+   else{
+     printf("retry, Quit program.");
+   }
+ }
+//2
+ else if(choose1==2){
+  printf("Enter entry year to find users(e.g 2019)>");
+  scanf("%c",&dummy);
+  scanf("%s",entry_year);
+    if(choose2==1){
+        printf("Enter name(more than 2 words)>");
+        scanf("%c",&dummy);
+        scanf("%s",name);
+        getchar();
+  for(i = 0; i < count; i++){
+   sprintf(year,"%d",records[i].entry);
+   if(strncmp(year,entry_year,strlen(entry_year))==0 && strncmp(records[i].name,name,strlen(name))==0){
+     printf("%2d",n++);
+    printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+    }
+   }
+  }
+  else if (choose2==3){
+    printf("Enter room number to find users>");
+    scanf("%c",&dummy);
+    scanf("%s",room_no);
+    getchar();
+   for(i = 0; i < count; i++){
+   sprintf(year,"%d",records[i].entry);
+ sprintf(room,"%d",records[i].room);
+    if(strncmp(year,entry_year,strlen(entry_year))==0 && strncmp(room,room_no,strlen(room_no))==0){
+      printf("%2d",n++);
+      printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+     }
+    }
+  }
+  else if(choose2==4){
+    printf("Enter gender to find users>");
+    scanf("%c",&dummy);
+    scanf("%s",gender);
+      getchar();
+    for(i = 0; i < count; i++){
+        sprintf(year,"%d",records[i].entry);
+       sprintf(gen,"%c",records[i].fm); 
+     if(strncmp(year,entry_year,strlen(entry_year))==0 && strncmp(gen,gender,1)==0){
+       printf("%2d",n++);
+       printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+      }
+     }
+  }
+  else{
+    printf("retry, Quit program.");
+  }
+ }
+ //3
+ else if(choose1==3){
+  printf("Enter room number to find users>");
+  scanf("%c",&dummy);
+  scanf("%s",room_no);
+   if(choose2==1){
+       printf("Enter name(more than 2 words)>");
+       scanf("%c",&dummy);
+       scanf("%s",name);
+       getchar();
+ for(i = 0; i < count; i++){
+ sprintf(room,"%d",records[i].room);
+  if(strncmp(room,room_no,strlen(room_no))==0 && strncmp(records[i].name,name,strlen(name))==0){
+   printf("%2d",n++);
+   printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+   }
+  }
+ }
+  else if(choose2==2){
+     printf("Enter entry year to find users(e.g 2019)>");
+     scanf("%c",&dummy);
+     scanf("%s",entry_year);
+     getchar();
+     for(i = 0; i < count; i++){
+      sprintf(room,"%d",records[i].room);
+	   sprintf(year,"%d",records[i].entry);
+      if(strncmp(room,room_no,strlen(room_no))==0 && strncmp(year,entry_year,strlen(entry_year))==0){
+       printf("%2d",n++);
+       printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+      }
+     }
+   }
+   else if(choose2==4){
+     printf("Enter gender to find users>");
+     scanf("%c",&dummy);
+     scanf("%s",gender);
+       getchar();
+     for(i = 0; i < count; i++){
+      sprintf(room,"%d",records[i].room);
+       sprintf(gen,"%c",records[i].fm);
+      if(strncmp(room,room_no,strlen(room_no))==0 && strncmp(gen,gender,1)==0){
+        printf("%2d",n++);
+        printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+       }
+      }
+   }
+   else{
+     printf("retry, Quit program.");
+   }
+ }
+ //4
+ else if(choose1==4){
+  printf("Enter gender to find users>");
+  scanf("%c",&dummy);
+  scanf("%s",gender);
+    if(choose2==1){
+        printf("Enter name(more than 2 words)>");
+        scanf("%c",&dummy);
+        scanf("%s",name);
+        getchar();
+    for(i = 0; i < count; i++){
+     sprintf(gen,"%c",records[i].fm);
+
+    if(strncmp(gen,gender,1)==0 && strncmp(records[i].name,name,strlen(name))==0){
+    printf("%2d",n++);
+    printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+     }
+    }
+   }
+    else if(choose2==2){
+      printf("Enter entry year to find users(e.g 2019)>");
+      scanf("%c",&dummy);
+      scanf("%s",entry_year);
+      getchar();
+      for(i = 0; i < count; i++){
+        sprintf(gen,"%c",records[i].fm);
+	sprintf(year,"%d",records[i].entry);
+	if(strncmp(gen,gender,1)==0 && strncmp(year,entry_year,strlen(entry_year))==0){
+        printf("%2d",n++);
+        printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+       }
+      }
+    }
+    else if (choose2==3){
+      printf("Enter room number to find users>");
+      scanf("%c",&dummy);
+      scanf("%s",room_no);
+      getchar();
+     for(i = 0; i < count; i++){
+      sprintf(gen,"%c",records[i].fm);
+      sprintf(room,"%d",records[i].room);
+      if(strncmp(gen,gender,1)==0 && strncmp(room,room_no,strlen(room_no))==0){
+        printf("%2d",n++);
+        printf("%d %s [%c] %d %d %d\n", i+1, records[i].name, records[i].fm, records[i].entry, records[i].room, records[i].point);
+       }
+      }
+    }
+ }
+ else{
+  printf("retry. Quit program.");
+}
+ fflush(stdin);
+ free(year);
+ free(room);
+free(gen);
 }
